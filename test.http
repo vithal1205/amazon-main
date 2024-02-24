@@ -1,0 +1,13 @@
+GET http://localhost:3000/api/statistics?month=0
+
+GET http://localhost:3000/api/statistics?month=1
+
+GET http://localhost:3000/api/statistics?month=3
+
+GET http://localhost:3000/api/bar-chart?month=3
+
+GET http://localhost:3000/api/pie-chart?month=3
+
+
+GET http://localhost:3000/api/combined-data?month=3
+
